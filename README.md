@@ -14,6 +14,9 @@
 
 - 📫 How to reach me **https://www.facebook.com/creativecodermm**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HlaingMinThan)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hlaingminthan4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hlaingminthan4" height="30" width="40" /></a>
