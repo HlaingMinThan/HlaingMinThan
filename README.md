@@ -1,6 +1,6 @@
 ![creative coder](https://github.com/HlaingMinThan/HlaingMinThan/blob/master/CD-CCV.png)
 <h1 align="center">Hi 👋, I'm Hlaing Min Than</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Web & Mobile Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/hlaingminthan4" target="blank"><img src="https://img.shields.io/twitter/follow/hlaingminthan4?logo=twitter&style=for-the-badge" alt="hlaingminthan4" /></a> </p>
 
