@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/hlaingminthan4" target="blank"><img src="https://img.shields.io/twitter/follow/hlaingminthan4?logo=twitter&style=for-the-badge" alt="hlaingminthan4" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**,**React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HlaingMinThan?tab=repositories](https://github.com/HlaingMinThan?tab=repositories)
 
