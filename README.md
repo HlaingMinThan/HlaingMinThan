@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HlaingMinThan?tab=repositories](https://github.com/HlaingMinThan?tab=repositories)
 
-- 📝 I regularly write articles on [http://creativecoder.blog/](http://creativecoder.blog/)
+- 📝 I regularly write articles on [https://creativecodermm.com/posts/](https://creativecodermm.com/posts/)
 
 - 💬 Ask me about **laravel,vue**
 
